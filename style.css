@@ -1,0 +1,46 @@
+body{
+    justify-content: center;
+    display: flex;
+    padding-top: 160px;
+    background-image: url(/pngtree-blue-carbon-background-with-sport-style-and-golden-light-image_371487.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#box{
+    width: 800px;
+    height: 500px;
+    background-color: white;
+}
+
+.slider{
+    margin-left: 130px;
+    margin-top: 20px;
+}
+
+
+#shadowColor{
+    margin-left: 170px;
+    width: 400px;
+    margin-top: 60px;
+}
+
+#csscode{
+    margin-left: 50px;
+    width: 250px;
+    height: 50px;
+    margin-top: 20px;
+    background-color: inherit;
+    color: white;
+    border: solid;
+}
+
+.copy{
+    width: 90px;
+    height: 60px;
+    background-color: orangered;
+    border: none;
+    margin-left: 40px;
+}
